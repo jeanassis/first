@@ -18,7 +18,6 @@ public class Usuario {
 
     private String aluno;
 
-    // @Column(name = "email", unique = true)
     private String email;
 
     private String curso;
